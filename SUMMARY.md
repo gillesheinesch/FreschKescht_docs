@@ -1,6 +1,6 @@
 # Table of contents
 
-* [FrëschKëscht Dokumentatioun](README.md)
+* [FK Team Documentation](README.md)
 
 ## 🚚 Michel Greco S.A.
 
