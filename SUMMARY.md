@@ -6,7 +6,7 @@
 
 * [Untitled](michel-greco-s.a./untitled.md)
 
-## 🖥️ FrëschKëscht Dashboard
+## 🖥️ FK Dashboard <a id="freschkescht-dashboard"></a>
 
 * [Untitled](freschkescht-dashboard/untitled.md)
 
