@@ -8,8 +8,7 @@
 
 ## 🏦 Comptabilité
 
-* [Factures/notes de crédit des Achats](comptabilite/achats-factures/README.md)
-  * [Payer une facture](comptabilite/achats-factures/payer-une-facture.md)
+* [Factures/notes de crédit des Achats](comptabilite/achats-factures.md)
 
 ## 📦 Commandes
 
