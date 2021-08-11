@@ -27,5 +27,13 @@ Une fois qu'une facture a été payée, elle doit être renommée en `%{FOURNISS
 **Si il n'y a pas de numéro de facture/note de crédit**, regardez dans les fichiers de factures précedantes sous quel nom on a sauvegardé les factures précédantes de ce fournisseur. S'il n'y en a pas, utilisez une réference qui vous semble logique comme numéro de facture.
 {% endhint %}
 
+{% hint style="info" %}
+### Informations utiles
+
+* Comme un **"/"** ne peut pas être utilisé dans les noms de fichiers, ils sont remplacés par un point **"."**
+* Les noms de fichiers n'ont pas le droit d'avoir des espaces. Par exemple, si le numéro de facture d'Amazon est **"INV 931 AEU"**, le nom du fichier sera **"AMAZON\_INV931AEU"**
+* Si une facture a été payée par **carte VISA** ou **prélèvement SEPA** \(via un extrait de compte bancaire\), la facture peut être déplacée directement du dossier "À payer" dans le fichier correspondant
+{% endhint %}
+
 
 
