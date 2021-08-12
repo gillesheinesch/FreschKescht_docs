@@ -9,6 +9,7 @@
 ## 🏦 Comptabilité
 
 * [Factures/notes de crédit des Achats](comptabilite/achats-factures.md)
+* [Payer une facture](comptabilite/payer-une-facture.md)
 
 ## 📦 Commandes
 
