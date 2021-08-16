@@ -1,6 +1,6 @@
 # Payer une facture
 
-Dans le dossier **"À payer"** du trimestre en cours il y a maintenant toutes les factures qui doivent être payées et tous les notes de crédit qui doivent être retenus sur les factures suivantes. 
+Dans le dossier **"À payer"** du trimestre en cours il y a maintenant toutes les factures qui doivent être payées et toutes les notes de crédit qui doivent être retenus sur les factures suivantes. 
 
 Une fois qu'une facture a été payée, elle doit être renommée en `%{FOURNISSEUR}_${NUMERO_DE_FACTURE}`. Une fois cela fait, il faut le déplacer du dossier "**À payer**" vers le dossier **"Achats"**. Ce dossier contient toutes les factures et crédits payés.
 
