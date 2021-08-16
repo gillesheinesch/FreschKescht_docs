@@ -1,4 +1,4 @@
-# Factures/notes de crédit des Achats
+# Factures/notes de crédit des achats
 
 Lorsqu'une nouvelle facture est reçue, que ce soit par courrier ou par e-mail, elle est enregistrée dans le OneDrive dans le fichier suivant: `Comptabilité/%{ANNÉE}/%{TRIMESTRE}/À PAYER`
 
