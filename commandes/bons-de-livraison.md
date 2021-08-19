@@ -1,6 +1,6 @@
 # Bons de livraison
 
-Lorsqu'un nouveau bon de livraison est reçu, que ce soit par courrier ou par e-mail, il est enregistré dans le OneDrive dans le fichier suivant: `Commandes/%{ANNÉE}`
+Lorsqu'un nouveau bon de livraison est reçu, que ce soit par courrier ou par e-mail, il est enregistré dans le OneDrive dans le fichier suivant: `Commandes/Bons de livraison/%{ANNÉE}`
 
 * `%{ANNÉE}` : **Année de la date du bon de livraison**
 

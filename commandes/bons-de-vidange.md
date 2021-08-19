@@ -1,6 +1,6 @@
 # Bons de vidange
 
-Lorsqu'un nouveau bon de vidange est reçu, que ce soit par courrier ou par e-mail, il est enregistré dans le OneDrive dans le fichier suivant: `Vidanges/%{ANNÉE}`
+Lorsqu'un nouveau bon de vidange est reçu, que ce soit par courrier ou par e-mail, il est enregistré dans le OneDrive dans le fichier suivant: `Commandes/Vidanges/%{ANNÉE}`
 
 * `%{ANNÉE}` : **Année de la date du bon de vidange**
 
