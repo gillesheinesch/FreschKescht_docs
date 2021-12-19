@@ -26,7 +26,7 @@
 
 ## 🖥️ Services en ligne <a href="#freschkescht-services" id="freschkescht-services"></a>
 
-* [Faire une commande](freschkescht-services/faire-une-commande.md)
+* [Passer une commande](freschkescht-services/passer-une-commande.md)
 * [Dashboard](freschkescht-services/dashboard.md)
 
 ## 🚚 Michel Greco S.A.
