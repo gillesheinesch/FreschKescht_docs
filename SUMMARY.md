@@ -24,13 +24,11 @@
 
 * [Untitled](marketing/untitled.md)
 
-## 🖥️ Services en ligne <a id="freschkescht-services"></a>
+## 🖥️ Services en ligne <a href="#freschkescht-services" id="freschkescht-services"></a>
 
-* [Crowdin](freschkescht-services/crowdin.md)
+* [Faire une commande](freschkescht-services/faire-une-commande.md)
 * [Dashboard](freschkescht-services/dashboard.md)
-* [Trello](freschkescht-services/trello.md)
 
 ## 🚚 Michel Greco S.A.
 
 * [Commander](michel-greco-s.a./untitled.md)
-
