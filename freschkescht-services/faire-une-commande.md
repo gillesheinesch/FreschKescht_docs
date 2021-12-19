@@ -18,10 +18,10 @@ Une fois que vous avez fait votre choix, vous êtes invité à créer un compte 
 * Ajouter un crédit au compte pour sauter le processus de paiement avec Stripe (carte de crédit, ...) ou Payconiq
 * Aperçu de toutes les commandes et des caisses restantes de l'abonnement
 
-![](https://i.imgur.com/aWYFtLC.png)
+![Aperçu des commandes sur votre compte client](https://i.imgur.com/aWYFtLC.png)
 
 Après la création d'un compte client et la vérification de l'adresse e-mail, il est possible de procéder au paiement de la commande et il est demandé de payer soit par carte Visa, Mastercard, American Express Card ou Payconiq. Dès que le paiement a été effectué avec succès, le client reçoit une confirmation par e-mail qui récapitule tous les détails de sa commande.
 
-![](https://i.imgur.com/sehSvir.png)
+![Formulaire d'achat pour commander un produit chez FrëschKëscht](https://i.imgur.com/sehSvir.png)
 
-![](https://i.imgur.com/58EFZE1.png)
+![Page de paiement](https://i.imgur.com/58EFZE1.png)
