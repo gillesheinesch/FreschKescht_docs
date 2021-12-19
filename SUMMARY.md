@@ -15,6 +15,8 @@
 
 * [Bons de livraison](commandes/bons-de-livraison.md)
 * [Bons de vidange](commandes/bons-de-vidange.md)
+* [Préparation du contenu des boîtes](commandes/preparation-du-contenu-des-boites.md)
+* [Passer une commande (fournisseurs)](commandes/passer-une-commande-fournisseurs.md)
 
 ## 👨‍🌾 Fournisseurs
 
